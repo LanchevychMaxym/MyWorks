@@ -1,0 +1,4 @@
+﻿  Markov.cpp
+D:\Programming\Алгоритми\Практичні в універі\3практ\Марков\Project1\Markov.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Алгоритми\Практичні в універі\3практ\Марков\Project1\Markov.cpp(102,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> D:\Programming\Алгоритми\Практичні в універі\3практ\Марков\Project1\Debug\Project1.exe

@@ -1,0 +1,12 @@
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Debug\Laba6.exe.config
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Debug\Laba6.exe
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Debug\Laba6.pdb
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Debug\Laba6.exe
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Debug\Laba6.pdb
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\bin\Debug\Laba6.exe.config
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\bin\Debug\Laba6.exe
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\bin\Debug\Laba6.pdb
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\obj\Debug\Laba6.csprojAssemblyReference.cache
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\obj\Debug\Laba6.exe
+D:\Programming\MyWorks_GITHUB\MyWorks\TuringMachine\obj\Debug\Laba6.pdb

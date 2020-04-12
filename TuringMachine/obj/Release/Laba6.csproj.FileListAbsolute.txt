@@ -1,0 +1,6 @@
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Release\Laba6.exe.config
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Release\Laba6.exe
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\bin\Release\Laba6.pdb
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Release\Laba6.csprojAssemblyReference.cache
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Release\Laba6.exe
+D:\Programming\Алгоритми\Практичні в універі\6\Laba6\obj\Release\Laba6.pdb

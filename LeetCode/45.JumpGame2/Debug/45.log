@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Programming\LeetCode\45\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Programming\LeetCode\45\Source.cpp(13,18): warning C4018: '<=': signed/unsigned mismatch
+D:\Programming\LeetCode\45\Source.cpp(22,19): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\LeetCode\45\Source.cpp(24,14): warning C4018: '>=': signed/unsigned mismatch
+D:\Programming\LeetCode\45\Source.cpp(56,22): warning C4018: '<=': signed/unsigned mismatch
+D:\Programming\LeetCode\45\Source.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\LeetCode\45\Source.cpp(67,19): warning C4018: '>=': signed/unsigned mismatch
+  45.vcxproj -> D:\Programming\LeetCode\45\Debug\45.exe
